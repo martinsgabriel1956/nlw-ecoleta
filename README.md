@@ -1,9 +1,9 @@
 ![Ecoleta](https://raw.githubusercontent.com/Rocketseat/nlw-01-starter/f80217315b49e27f01b39dbf96ab06c1360ac57c/.github/ecoleta.svg)
 
 
-Aplicação Web criada na trilha **starter**,  durante a semana **Next Level Week**.
+Aplicação criada na trilha **starter**,  durante a semana **Next Level Week**.
 
-O objetivo da aplicação é as empresas/usuários cadastrarem/procurarem por pontos de coleta em todo Brasíl.
+O projeto tem objetivo de conectar as pessoas que estão procurando por pontos de coletas para descartar os residuos  e as empresas que coletam esses residuos.
 
 ## :computer: Tecnologias utilizadas:
 
@@ -12,3 +12,24 @@ O objetivo da aplicação é as empresas/usuários cadastrarem/procurarem por po
 * SQLite
 * Nunjucks
 * Express
+
+## :desktop_computer: Como usar
+
+``` powershell
+# Clonar o repositório
+
+git clone https://github.com/martinsgabriel1956/nlw-ecoleta
+
+# Ir ao diretório da pasta
+
+cd .\Ecoleta\
+
+# Instalar as dependências
+
+npm install
+
+# Iniciar o site
+
+npm start
+
+```
