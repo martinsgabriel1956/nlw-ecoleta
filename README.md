@@ -3,7 +3,7 @@
 
 Aplicação criada na trilha **starter**,  durante a semana **Next Level Week**.
 
-O projeto tem objetivo de conectar as pessoas que estão procurando por pontos de coletas para descartar os residuos  e as empresas que coletam esses residuos.
+O projeto tem objetivo de conectar as pessoas que estão procurando por pontos de coletas para descartar os resíduos e as empresas que coletam esses resíduos.
 
 ## :computer: Tecnologias utilizadas:
 
@@ -22,7 +22,7 @@ git clone https://github.com/martinsgabriel1956/nlw-ecoleta
 
 # Ir ao diretório da pasta
 
-cd .\Ecoleta\
+cd .\nlw-ecoleta\
 
 # Instalar as dependências
 
@@ -31,5 +31,9 @@ npm install
 # Iniciar o site
 
 npm start
+
+# Entrar por um navegador
+
+start "http://localhost:3000"
 
 ```
