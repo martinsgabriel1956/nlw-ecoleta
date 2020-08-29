@@ -23,7 +23,7 @@
         grid-template-columns: 1fr;
     }
     #page-search-results .cards img{
-        height: 200px;
+        height: 250px;
     }
 
     #page-create-point .field-group{
@@ -42,8 +42,7 @@
 }
 @media (max-height: 760px){
     #page-home{
-        background-position-y: 100px;
-        background-position-x: 30vw;
+        background-position-y: 200px;
     }
 
     #page-home main h1{
