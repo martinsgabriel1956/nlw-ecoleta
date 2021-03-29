@@ -4,8 +4,10 @@
 </h1>
 
 <p align="center">
-  <img alt="License: MIT" src="https://img.shields.io/github/license/martinsgabriel1956/nlw-ecoleta?style=for-the-badge" />
   <img alt="Tech" src="https://img.shields.io/badge/Tech-Javascript-f3db1d?style=for-the-badge" />
+  <img alt="Tech" src="https://img.shields.io/badge/Tech-HTML-ea6227?style=for-the-badge" />
+  <img alt="Tech" src="https://img.shields.io/badge/Tech-CSS-149fda?style=for-the-badge" />
+  <img alt="Tech" src="https://img.shields.io/badge/Tech-Node-72c83a?style=for-the-badge" />
 </p>
 
 <p align="center">
