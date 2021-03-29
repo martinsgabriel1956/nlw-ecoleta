@@ -3,7 +3,13 @@
   <img src="./.github/logo.svg" alt="Logo" />
 </h1>
 
-Aplicação criada na trilha **starter**,  durante a semana **Next Level Week**.
+<p align="center">
+  <img src="./.github/page-mockup.png" alt="Home" />
+</p>
+
+<p align="center">
+  Aplicação criada na trilha **starter**,  durante a semana **Next Level Week**.
+</p>
 
 O projeto tem objetivo de conectar as pessoas que estão procurando por pontos de coletas para descartar os resíduos e as empresas que coletam esses resíduos.
 
