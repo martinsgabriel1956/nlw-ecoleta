@@ -13,7 +13,7 @@
 
 O projeto tem objetivo de conectar as pessoas que estão procurando por pontos de coletas para descartar os resíduos e as empresas que coletam esses resíduos.
 
-## :computer: Tecnologias utilizadas:
+## :rocket: Tecnologias utilizadas:
 
 * Javascript
 * NodeJs
