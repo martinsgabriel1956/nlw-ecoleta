@@ -26,7 +26,7 @@ O projeto tem objetivo de conectar as pessoas que estão procurando por pontos d
 ``` powershell
 # Clonar o repositório
 
-git clone https://github.com/martinsgabriel1956/nlw-ecoleta
+git clone https://github.com/martinsgabriel1956/nlw-ecoleta.git
 
 # Ir ao diretório da pasta
 
