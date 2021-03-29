@@ -1,6 +1,6 @@
 
 <h1 align="center">
-  ![Ecoleta](https://raw.githubusercontent.com/Rocketseat/nlw-01-starter/f80217315b49e27f01b39dbf96ab06c1360ac57c/.github/ecoleta.svg)
+  <img src="./.github/logo.svg" alt="Logo" />
 </h1>
 
 Aplicação criada na trilha **starter**,  durante a semana **Next Level Week**.
