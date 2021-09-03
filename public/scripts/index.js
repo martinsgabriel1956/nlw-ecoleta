@@ -1,11 +1,10 @@
-const buttonSearch = document.querySelector("#page-home main a")
-const modal = document.querySelector("#modal")
-const close = document.querySelector("#modal .header a")
+const elements = {
+  buttonSearch: document.querySelector("#page-home main a"),
+	modal: document.querySelector("#modal"),
+	close: document.querySelector("#modal .header a"),
+};
 
-buttonSearch.addEventListener("click", () => {
-    modal.classList.remove("hide")
-})
+const { buttonSearch, close, modal } = elements
 
-close.addEventListener("click", () => {
-    modal.classList.add("hide")
-})
+buttonSearch.addEventListener("click", () => modal.classList.remove("hide"));
+close.addEventListener("click", () => modal.classList.add("hide"));
