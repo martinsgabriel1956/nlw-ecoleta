@@ -43,14 +43,24 @@ cd .\nlw-ecoleta\
 
 # Instalar as dependências
 
-npm install
+npm i
+  ## ou
+yarn 
+
+# Rodar o db
+
+npm run db
+  ## ou
+yarn db
 
 # Iniciar o site
 
 npm start
+  ## ou
+yarn start
 
 # Entrar por um navegador
 
-start "http://localhost:3000"
+"http://localhost:3000"
 
 ```

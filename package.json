@@ -5,7 +5,7 @@
   "main": "src/server.js",
   "scripts": {
     "start": "nodemon src/server.js",
-    "run:db": "node ./src/database/db.js"
+    "db": "node ./src/database/db.js"
   },
   "keywords": [],
   "author": "",
